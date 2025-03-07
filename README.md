@@ -1,8 +1,7 @@
 ### Hi, I'm Jibran 👋
 
 I am a **Senior DevOps Engineer & GenAI Developer** with a strong background in **Full Stack Developer** and a focus on **Application Security**. I specialize in building scalable applications, streamlining deployment processes, and ensuring the security of web solutions.
-
-### DevOps
+ 
 
 <p float="left">
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank">
@@ -47,5 +46,5 @@ I am a **Senior DevOps Engineer & GenAI Developer** with a strong background in 
 
 ### 📬 Get in Touch:
 - Let's connect on LinkedIn 👨🏻‍💻 [LinkedIn](https://www.linkedin.com/in/muhammad-jibran220/)
-- Drop me a message via Email 💌 muhammadjibrandevn@gmail.com
+- Drop me a message via Email 💌 muhammadjibrandev@gmail.com
 - Explore my work on my Website 🌐 [My_Website](muhammadjibran.netlify.app)
