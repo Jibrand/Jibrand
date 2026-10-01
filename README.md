@@ -1,6 +1,6 @@
 ### Hi, I'm Jibran 👋
 
-I am a **Senior DevOps Engineer & GenAI Developer** with a strong background in **Full Stack Developer** and a focus on **Application Security**. I specialize in building scalable applications, streamlining deployment processes, and ensuring the security of web solutions.
+I am a **Full Stack & GenAI Engineer** With a focus on **Application Security**. I specialize in building scalable applications, streamlining deployment processes, and ensuring the security of web solutions.
  
 
 <p float="left">
